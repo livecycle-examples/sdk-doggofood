@@ -1,7 +1,9 @@
 import logo from './logo.svg';
+import { LivecycleSdk } from 'livecycle';
 import './App.css';
 
 function App() {
+  LivecycleSdk.init();
   return (
     <div className="App">
       <header className="App-header">
