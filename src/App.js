@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import { LivecycleSdk } from 'livecycle';
+import { LivecycleSdk } from 'livecycle-sdk';
 import './App.css';
 
 function App() {
